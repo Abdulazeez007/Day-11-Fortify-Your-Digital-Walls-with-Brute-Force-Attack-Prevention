@@ -1,7 +1,5 @@
 # Day-11-Fortify-Your-Digital-Walls-with-Brute-Force-Attack-Prevention
 
-# Understanding Brute Force Attacks: Types, Prevention, and Tools
-
 Brute force attacks continue to be a prevalent threat in cybersecurity. This guide explains what they are, how they work, and how you can protect yourself against them.
 
 ## What is a Brute Force Attack?
